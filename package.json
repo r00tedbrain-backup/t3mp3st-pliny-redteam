@@ -144,7 +144,7 @@
     "url": "git+https://github.com/elder-plinius/t3mp3st.git"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.25.1",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "ajv": "^8.20.0",
     "boxen": "^7.1.1",
     "chalk": "^5.3.0",
